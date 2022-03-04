@@ -1,0 +1,6 @@
+framework module Pods_CocoaTouchPocTests {
+  umbrella header "Pods-CocoaTouchPocTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
